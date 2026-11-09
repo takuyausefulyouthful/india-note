@@ -1,0 +1,44 @@
+{
+  "slug": "languages",
+  "draft": false,
+  "minutes": 5,
+  "checked": "2026-11-09",
+  "points": [
+    "連邦の公用語はヒンディー語だが、母語とする人は2011年の時点で約44%である。",
+    "1956年の州再編では、言語が州の境界を決める主な基準になった。",
+    "言語の問題は北部と南部の政治的な対立にもつながっている。"
+  ],
+  "body": [
+    { "p": "インドの紙幣には、ヒンディー語と英語に加えて、15の言語で額面が書かれています。この国の言語の多さは、行政や教育、政治のあり方にも直接関わってきます。" },
+    { "h": "公用語の仕組み" },
+    { "figure": "language-layers", "caption": "インドの言語の位置づけ（2011年国勢調査の分類に基づく）" },
+    { "p": "憲法第343条は、デーヴァナーガリー文字のヒンディー語を連邦の公用語と定めています。英語は当初15年間で使用を終える予定でしたが、1963年の公用語法によって引き続き使えるようになりました。憲法の第8附則には22の言語が挙げられています。" },
+    { "p": "2011年の国勢調査では、121の言語と270の母語が集計されました。ヒンディー語を母語とする人は43.63%、次に多いベンガル語は8.03%です。この「ヒンディー語」には、地域のさまざまな言葉が含まれている点には注意が必要です。" },
+    { "h": "言語で引かれた州境" },
+    { "p": "独立後、言語ごとに州を作るべきだという要求が高まりました。州再編委員会は言語の同質性を指針とし、1956年11月1日に州再編法が施行されて、現在の州の枠組みの原型ができました。" },
+    { "h": "北と南" },
+    { "p": "北部の主な言語はヒンディー語などインド・アーリア語派に属し、南部のタミル語、テルグ語、カンナダ語、マラヤーラム語はドラヴィダ語族に属します。文字も文法の系統も異なります。" },
+    { "p": "1965年に英語の使用期限が近づくと、タミル地方でヒンディー語の押しつけに反対する激しい運動が起きました。タミル・ナードゥ州は現在も、学校教育でタミル語と英語の2言語を基本とする方針を維持しています。" },
+    { "views": [
+      { "who": "ヒンディー語の普及を支持する立場", "text": "共通の言葉があれば、国民の一体感や州を越えた移動に役立つと主張します。" },
+      { "who": "ヒンディー語の優遇を懸念する立場", "text": "非ヒンディー語地域の人々が不利になり、地域の言語と文化が損なわれると主張します。" }
+    ] },
+    { "note": "ありがちな誤解: 「ヒンディー語はインドの国語」と言われることがありますが、憲法が定めているのは連邦の「公用語」です。ビジネスでは英語が広く使われています。" }
+  ],
+  "quiz": [
+    { "q": "憲法の第8附則に挙げられている言語の数はいくつですか？", "choices": ["2", "22", "121", "270"], "answer": 1, "why": "第8附則には22の言語が挙げられています。" },
+    { "q": "2011年の国勢調査で、ヒンディー語を母語とする人の割合に最も近いものはどれですか？", "choices": ["約44%", "約20%", "約70%", "約90%"], "answer": 0, "why": "43.63%でした。" },
+    { "q": "州再編法が施行された年はどれですか？", "choices": ["1947年", "1950年", "1965年", "1956年"], "answer": 3, "why": "1956年11月1日に施行されました。" },
+    { "q": "タミル語が属する語族はどれですか？", "choices": ["インド・ヨーロッパ語族", "シナ・チベット語族", "ドラヴィダ語族", "セム語族"], "answer": 2, "why": "タミル語はドラヴィダ語族に属します。" },
+    { "q": "連邦公用語のヒンディー語に用いると憲法が定める文字はどれですか？", "choices": ["ラテン文字", "デーヴァナーガリー文字", "アラビア文字", "タミル文字"], "answer": 1, "why": "憲法第343条がデーヴァナーガリー文字と定めています。" }
+  ],
+  "sources": [
+    { "t": "Reserve Bank of India, Indian Currency FAQ（紙幣の言語）", "u": "https://rbi.org.in/CommonPerson/english/scripts/FAQs.aspx?Id=3158" },
+    { "t": "ThePrint, Why DMK-led Tamil Nadu govt is at war with the Centre over NEP", "u": "https://theprint.in/theprint-essential/why-dmk-led-tamil-nadu-govt-is-at-war-with-the-centre-over-nep/2506578/" },
+    { "t": "Al Jazeera, India's language war: Why is Hindi sparking a north-south divide?", "u": "https://www.aljazeera.com/news/2025/4/10/indias-language-war-why-is-hindi-causing-a-north-south-divide" },
+    { "t": "Census of India 2011, Paper 1 of 2018: Language", "u": "https://censusindia.gov.in/nada/index.php/catalog/42458/download/46089/C-16_25062018.pdf" },
+    { "t": "Government of India, The Constitution of India", "u": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf" },
+    { "t": "Department of Official Language, Committee of Parliament on Official Language Report", "u": "https://rajbhasha.gov.in/sites/default/files/cpolreport9-chapter1eng.pdf" },
+    { "t": "Britannica, States Reorganization Act", "u": "https://www.britannica.com/topic/States-Reorganization-Act" }
+  ]
+}

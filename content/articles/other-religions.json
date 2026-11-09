@@ -1,0 +1,46 @@
+{
+  "slug": "other-religions",
+  "draft": false,
+  "minutes": 5,
+  "checked": "2026-11-09",
+  "points": [
+    "シク教はパンジャーブ地方でグル・ナーナクが始めた宗教で、聖地はアムリットサルの黄金寺院である。",
+    "ジャイナ教は徹底した不殺生を説き、信者の92%が菜食と答えている。",
+    "仏教は一度インドでほぼ姿を消したが、1956年のアンベードカルの改宗で新たな展開を迎えた。"
+  ],
+  "body": [
+    { "p": "ヒンドゥー教とイスラム教以外にも、インドには多くの宗教があります。人口の割合は小さくても、政治、経済、文化に大きな影響を与えてきました。" },
+    { "figure": "religions", "caption": "主な宗教の概要（割合は2011年国勢調査）" },
+    { "h": "シク教" },
+    { "p": "シク教は、グル・ナーナクを開祖とし、北西部のパンジャーブ地方で生まれました。最も重要な聖地はアムリットサルのハリマンディル・サーヒブ（黄金寺院）です。寺院（グルドワーラー）の共同食堂ランガルでは、宗教や身分を問わず菜食の食事がふるまわれます。" },
+    { "p": "1984年、政府軍は黄金寺院に立てこもる武装勢力を攻撃し、その後インディラ・ガンディー首相がシク教徒の護衛に暗殺されました。これを受けて各地でシク教徒への大規模な暴力が起き、約3,000人が死亡したとされます。この歴史は今も深い傷として残っています。" },
+    { "h": "ジャイナ教" },
+    { "p": "ジャイナ教はマハーヴィーラによって広められ、あらゆる生き物を傷つけない不殺生（アヒンサー）を徹底します。ピュー研究所の調査では、ジャイナ教徒の92%が菜食と答え、67%は根菜も食べないと答えています。" },
+    { "h": "仏教" },
+    { "p": "ブッダの生涯の舞台はインド周辺でしたが、仏教はインドでは20世紀半ばまでにほとんど姿を消していました。1956年、憲法起草の中心人物で被差別カーストの出身であるアンベードカルがヒンドゥー教を離れて仏教に改宗し、後に数百万人の人々が続きました。インドの仏教徒の多くは、差別からの解放と結びついたこの流れの中にいます。" },
+    { "h": "キリスト教" },
+    { "p": "南西部のケーララ（2026年8月に正式名称をケーララムに変更）には「トマス派キリスト教徒」と呼ばれる古い共同体があります。使徒トマスが西暦52年に渡来したという伝承を持ちますが、歴史的には確認されていません。ただ、2〜3世紀にはこの地にキリスト教徒がいたことを示す手がかりがあります。" },
+    { "note": "パールシーについて: ペルシャから渡ったゾロアスター教徒の子孫であるパールシーは、人口はごくわずかですが、タタ財閥の創業家を輩出するなど、インドの経済に大きな足跡を残しています。" }
+  ],
+  "quiz": [
+    { "q": "シク教の開祖は誰ですか？", "choices": ["マハーヴィーラ", "グル・ナーナク", "アンベードカル", "アショーカ"], "answer": 1, "why": "シク教はグル・ナーナクを開祖とします。" },
+    { "q": "黄金寺院がある都市はどこですか？", "choices": ["アムリットサル", "バラナシ", "アヨーディヤー", "コーチ"], "answer": 0, "why": "パンジャーブ地方のアムリットサルにあります。" },
+    { "q": "ジャイナ教が特に重視する教えはどれですか？", "choices": ["一神教の信仰", "聖地メッカへの巡礼", "転生の否定", "不殺生（アヒンサー）"], "answer": 3, "why": "あらゆる生き物を傷つけない不殺生を徹底します。" },
+    { "q": "1956年に仏教に改宗し、数百万人が続くきっかけとなった人物は誰ですか？", "choices": ["ガンディー", "ネルー", "アンベードカル", "ボース"], "answer": 2, "why": "アンベードカルは差別からの解放を掲げて改宗しました。" },
+    { "q": "トマス派キリスト教徒の共同体がある地域はどこですか？", "choices": ["パンジャーブ", "ケーララ", "ベンガル", "カシミール"], "answer": 1, "why": "南西部のケーララ（現ケーララム）にあります。" }
+  ],
+  "sources": [
+    { "t": "Britannica, Langar", "u": "https://www.britannica.com/topic/langar" },
+    { "t": "Britannica, Operation Blue Star", "u": "https://www.britannica.com/topic/Operation-Blue-Star" },
+    { "t": "Britannica, Jarnail Singh Bhindranwale", "u": "https://www.britannica.com/biography/Jarnail-Singh-Bhindranwale" },
+    { "t": "Britannica, Why was Kerala renamed Keralam?", "u": "https://www.britannica.com/question/Why-was-Kerala-renamed-Keralam" },
+    { "t": "Britannica, Guru Nanak", "u": "https://www.britannica.com/biography/Guru-Nanak" },
+    { "t": "Britannica, Sikhism Facts", "u": "https://www.britannica.com/facts/Sikhism" },
+    { "t": "Britannica, Mahavira", "u": "https://www.britannica.com/biography/Mahavira-Jaina-teacher" },
+    { "t": "Britannica, Thomas Christians", "u": "https://www.britannica.com/topic/Thomas-Christians" },
+    { "t": "Britannica, India (Students)", "u": "https://kids.britannica.com/students/article/India/275043" },
+    { "t": "Pew Research Center, Views of religion and food in India", "u": "https://www.pewresearch.org/religion/2021/06/29/religion-and-food/" },
+    { "t": "Britannica, Tata family", "u": "https://www.britannica.com/money/Tata-family" },
+    { "t": "ジェトロ「インド 基礎的経済指標・概況」（宗教別人口）", "u": "https://www.jetro.go.jp/world/asia/in/basic_01.html" }
+  ]
+}

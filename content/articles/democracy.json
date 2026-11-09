@@ -1,0 +1,49 @@
+{
+  "slug": "democracy",
+  "draft": false,
+  "minutes": 6,
+  "checked": "2026-11-09",
+  "points": [
+    "インドは連邦制の議院内閣制で、政治の実権は下院に責任を負う首相と内閣にある。",
+    "2024年の総選挙では約6億4,200万人が投票し、与党連合が過半数を維持したが、BJPは単独過半数を失った。",
+    "インドの民主主義の現状については、評価と懸念の両方がある。"
+  ],
+  "body": [
+    { "p": "インドは、有権者の数で世界最大の民主主義国です。1950年に施行された憲法のもと、宗教も言語も異なる人々が、選挙を通じて政権を選んできました。仕組みは日本と似た部分も多いのですが、規模と連邦制の点で大きく異なります。" },
+    { "h": "誰が国を動かしているのか" },
+    { "figure": "government", "caption": "インドの主な統治機構の選ばれ方（簡略化した模式図）" },
+    { "p": "国家元首は大統領ですが、実際の政治を担うのは首相と閣僚です。内閣は憲法第75条により、下院（ローク・サバー）に対して連帯して責任を負います。つまり、下院の信任を得られなければ政権を維持できません。この点は日本の議院内閣制と同じです。" },
+    { "p": "大統領は国民の直接選挙ではなく、連邦議会の両院と州議会などの選挙された議員による選挙人団が選びます。議員は政党の党議に拘束されずに投票できるとされています。" },
+    { "h": "二つの議院" },
+    { "p": "下院は543の小選挙区から直接選挙で議員が選ばれ、法案や予算で強い権限を持ちます。上院（ラージヤ・サバー）の定数は憲法上250が上限で、現在の定数は245です。このうち233議席は州議会の議員などが選び、12議席は学術や芸術などの分野から大統領が指名します。下院と違い、上院は政権を倒すことはできません。" },
+    { "p": "連邦制のため、州にも議会と州政府があり、州ごとの選挙はたびたび全国の政治の風向きを左右します。多くの州で地域政党が力を持っています。" },
+    { "h": "2024年の総選挙" },
+    { "p": "2024年の総選挙では、登録有権者が約9億8千万人、投票者が約6億4,200万人に上りました。ナレンドラ・モディ首相の率いるインド人民党（BJP）は240議席を獲得したものの、過半数の272議席には届きませんでした。それでもBJPを中心とする国民民主同盟（NDA）は293議席で過半数を得て、モディ首相は3期目に入りました。" },
+    { "p": "最大野党のインド国民会議は99議席を獲得し、野党連合のINDIAは全体で234議席となりました。独立運動を率いた国民会議は、独立後の長い期間で政権を担いましたが、現在の政治はBJPとの対抗を軸に動いています。" },
+    { "h": "民主主義の現状をめぐって" },
+    { "views": [
+      { "who": "評価する見方", "text": "巨大で多様な社会で定期的に選挙を行い、選挙による政権交代を重ねてきた点を重視します。" },
+      { "who": "懸念する見方", "text": "宗教的少数派の権利、報道や市民団体の自由、政権と野党の関係などを問題にします。スウェーデンのV-Dem研究所はインドを「選挙による専制」に分類し、米国のフリーダム・ハウスは2021年に評価を「部分的に自由」へ引き下げました。ジャイシャンカル外相は2021年に、こうした評価を「偽善」だと反論しています。" }
+    ] },
+    { "note": "日本との比較: どちらも議院内閣制ですが、インドは小選挙区のみで下院を選び、州の権限が大きい連邦国家です。インドの大統領は政治的に象徴的な役割が中心ですが、憲法上の国家元首です。" }
+  ],
+  "quiz": [
+    { "q": "インドの内閣が連帯して責任を負う議院はどれですか？", "choices": ["上院（ラージヤ・サバー）", "最高裁判所", "下院（ローク・サバー）", "州議会"], "answer": 2, "why": "憲法第75条により、内閣は下院に対して連帯して責任を負います。" },
+    { "q": "インドの大統領はどのように選ばれますか？", "choices": ["国民の直接選挙", "議員による選挙人団", "首相の任命", "最高裁の指名"], "answer": 1, "why": "連邦議会の両院と州議会などの選挙された議員が選びます。" },
+    { "q": "下院の直接選挙の小選挙区の数はいくつですか？", "choices": ["543", "245", "250", "790"], "answer": 0, "why": "下院は543の小選挙区から議員が選ばれます。245は上院の現在の定数です。" },
+    { "q": "2024年の総選挙でBJPが単独で獲得した議席数はどれですか？", "choices": ["99", "293", "303", "240"], "answer": 3, "why": "BJPは240議席で、過半数の272に届きませんでした。NDA全体では293議席です。" },
+    { "q": "2024年の総選挙の投票者数に最も近いものはどれですか？", "choices": ["約1億人", "約6億4,200万人", "約9億8千万人", "約14億人"], "answer": 1, "why": "投票者は約6億4,200万人でした。約9億8千万人は登録有権者の数です。" }
+  ],
+  "sources": [
+    { "t": "V-Dem Institute, Democracy Report 2026", "u": "https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf" },
+    { "t": "Scroll.in, India rated 'partially free' in Freedom House report for third straight year（2023年）", "u": "https://scroll.in/latest/1045410/india-rated-partially-free-for-third-straight-year-in-freedom-house-report" },
+    { "t": "Scroll.in, S Jaishankar calls Freedom House and V-Dem reports 'hypocrisy'（2021年）", "u": "https://scroll.in/latest/989607/foreign-minister-rejects-reports-questioning-democracy-in-india-says-enough-of-these-homilies" },
+    { "t": "Rajya Sabha, Composition of Rajya Sabha（現在の定数245）", "u": "https://sansad.in/uploads/CHAPTER_2_00fa091868.pdf?updated_at=2022-11-18T09%3A53%3A53.828Z" },
+    { "t": "Government of India, The Constitution of India", "u": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf" },
+    { "t": "Rajya Sabha Secretariat, Composition of Rajya Sabha", "u": "https://cms.rajyasabha.nic.in/UploadedFiles/Procedure/RajyaSabhaAtWork/English/21-29/CHAPTER2.pdf" },
+    { "t": "Rajya Sabha, Frequently Asked Questions on Parliament", "u": "https://cms.rajyasabha.nic.in/UploadedFiles/ElectronicPublications/FAQ.pdf" },
+    { "t": "Lok Sabha Secretariat, Electing the President and the Vice-President", "u": "https://eparlib.sansad.in/bitstream/123456789/994884/1/Electing_President_VicePresident_07Ed_2022.pdf" },
+    { "t": "Press Information Bureau, Proactive Disclosure of Extensive Data sets of the world's Largest Election", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088064&reg=48&lang=2" },
+    { "t": "Britannica, Indian Lok Sabha elections of 2024", "u": "https://www.britannica.com/event/Indian-Lok-Sabha-elections-of-2024" }
+  ]
+}

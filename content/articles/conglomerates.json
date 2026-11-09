@@ -1,0 +1,47 @@
+{
+  "slug": "conglomerates",
+  "draft": false,
+  "minutes": 5,
+  "checked": "2026-11-09",
+  "points": [
+    "タタ、ビルラのような歴史ある家族経営の財閥と、リライアンス、アダニのような新興財閥がある。",
+    "財閥は鉄鋼、エネルギー、通信、港湾など経済の基盤となる分野に大きな影響力を持つ。",
+    "アダニをめぐる疑惑の経緯は、インドの企業統治を考える材料になっている。"
+  ],
+  "body": [
+    { "p": "インドの経済ニュースには、特定の財閥の名前が繰り返し登場します。多くの産業に広がる家族経営の企業グループは、インド経済を理解するうえで欠かせない存在です。" },
+    { "figure": "groups", "caption": "代表的な企業グループの概要" },
+    { "h": "タタ" },
+    { "p": "タタはパールシーの実業家ジャムシェトジー・タタが創業したグループで、本拠はムンバイです。製鉄、綿工業、水力発電などで発展し、タタ製鉄はインド最大の民間鉄鋼会社となりました。1991年に会長となったラタン・タタは、紅茶のテトリーや鉄鋼のコーラスを買収するなど、海外展開を進めました。慈善活動でも知られています。" },
+    { "h": "ビルラ" },
+    { "p": "ビルラ家の事業は、1857年にラージャスターンのピラーニーで綿花の取引を始めたことにさかのぼります。G.D.ビルラは1919年にカルカッタで最初のジュート工場を設立し、ガンディーの独立運動を支援した実業家としても知られます。現在のアディティヤ・ビルラ・グループは繊維素材、金属、セメントなどを手がけています。" },
+    { "h": "リライアンスとアダニ" },
+    { "p": "リライアンス・インダストリーズは、ディルバイ・アンバニが創業し、石油化学の大企業に成長しました。現在は息子のムケシュ・アンバニが率い、通信や小売にも事業を広げています。" },
+    { "p": "ゴータム・アダニが創業したアダニ・グループは、港湾、エネルギーなどのインフラ分野で急速に拡大しました。" },
+    { "h": "アダニをめぐる経緯" },
+    { "p": "2023年1月、米国の空売り投資会社ヒンデンブルク・リサーチはアダニ・グループに株価操作や不正があると主張し、数日で500億ドルを超える時価総額が失われました。グループは疑惑を全面的に否定しています。インド最高裁は2024年1月に別の捜査機関による調査の命令を退け、インド証券取引委員会（SEBI）は2025年9月、違反は立証されなかったとして手続きを終えました。" },
+    { "views": [
+      { "who": "財閥の役割を評価する見方", "text": "大規模な投資のリスクを負い、インフラや製造業の発展、雇用に貢献していると考えます。" },
+      { "who": "集中を懸念する見方", "text": "特定の企業への経済力の集中や、政治との近さが競争を損なうおそれを指摘します。" }
+    ] },
+    { "note": "ビジネスの場で: 企業グループでは、創業家が重要な判断に関わることが多く、社名が同じでも別々に経営されている場合があります。提携を考えるときは、会社ごとの実態を確認することが大切です。" }
+  ],
+  "quiz": [
+    { "q": "タタ・グループの創業者は誰ですか？", "choices": ["ディルバイ・アンバニ", "ジャムシェトジー・タタ", "G.D.ビルラ", "ゴータム・アダニ"], "answer": 1, "why": "パールシーの実業家ジャムシェトジー・タタが創業しました。" },
+    { "q": "リライアンス・インダストリーズの現在の会長は誰ですか？", "choices": ["ムケシュ・アンバニ", "ラタン・タタ", "ナーラーヤナ・ムールティ", "ジャムシェトジー・タタ"], "answer": 0, "why": "ムケシュ・アンバニが率いています。" },
+    { "q": "ラタン・タタの時代にタタが買収した企業はどれですか？", "choices": ["スズキ", "マルチ", "インフォシス", "テトリー"], "answer": 3, "why": "紅茶のテトリーや鉄鋼のコーラスを買収しました。" },
+    { "q": "2023年1月にアダニ・グループへの疑惑を公表した会社はどれですか？", "choices": ["SEBI", "IMF", "ヒンデンブルク・リサーチ", "CFR"], "answer": 2, "why": "米国の空売り投資会社ヒンデンブルク・リサーチです。" },
+    { "q": "G.D.ビルラが最初のジュート工場を設立した都市はどこですか？", "choices": ["ムンバイ", "カルカッタ", "ピラーニー", "チェンナイ"], "answer": 1, "why": "1919年にカルカッタで設立しました。" }
+  ],
+  "sources": [
+    { "t": "Reliance Industries, About", "u": "https://www.ril.com/about" },
+    { "t": "Adani Group, Businesses", "u": "https://www.adani.com/businesses" },
+    { "t": "Britannica, Tata family", "u": "https://www.britannica.com/money/Tata-family" },
+    { "t": "Britannica, Ratan Tata", "u": "https://money.britannica.com/money/Ratan-Tata" },
+    { "t": "Aditya Birla Group, Our Heritage", "u": "https://www.adityabirla.com/en/our-story/heritage/" },
+    { "t": "Aditya Birla Group, G.D. Birla: Icon of Indian Conglomerates", "u": "https://www.adityabirla.com/media/stories/gd-birla-reliving-a-remarkable-life/" },
+    { "t": "Britannica, Hindenburg Research", "u": "https://www.britannica.com/topic/Hindenburg-Research" },
+    { "t": "Adani Group, Response to Hindenburg（2023年1月、同社の反論）", "u": "https://www.adani.com/-/media/Project/Adani/Invetsors/Adani-Response-to-hindenburg-January-29-2023.pdf" },
+    { "t": "Al Jazeera, Indian regulators dismiss stock manipulation allegations on Adani Group（2025年9月）", "u": "https://www.aljazeera.com/economy/2025/9/18/indian-regulators-dismiss-stock-manipulation-allegations-on-adani-group" }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "draft": false,
+  "checked": "2026-11-09",
+  "items": [
+    {
+      "group": "1〜3月ごろ",
+      "when": "1月半ば",
+      "name": "マカル・サンクラーンティ",
+      "en": "Makar Sankranti",
+      "type": "option",
+      "where": "全国各地（グジャラートではウッタラーヤン）",
+      "mean": "太陽が北へ向かい始める節目を祝う、冬の収穫の祭りです。",
+      "do": "凧揚げが盛んで、特にグジャラートで有名です。ごまと黒糖で作った菓子を食べる地域もあります。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "1月半ば",
+      "name": "マーグ・ビフ",
+      "en": "Magh Bihu",
+      "type": "option",
+      "where": "アッサム州",
+      "mean": "アッサムの農事暦に結びついた3つのビフのうち、収穫を祝う祭りです。",
+      "do": "ごちそうを囲み、たき火をします。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "1月半ば",
+      "name": "ポンガル",
+      "en": "Pongal",
+      "type": "option",
+      "where": "タミル・ナードゥ州",
+      "mean": "4日間続くタミルの収穫祭です。太陽暦に基づくため、ほぼ毎年1月半ばです。",
+      "do": "牛乳で炊いた米を神々に供えます。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "1月26日（固定）",
+      "name": "共和国記念日",
+      "en": "Republic Day",
+      "type": "national",
+      "where": "全国",
+      "mean": "1950年1月26日のインド憲法の施行を記念する日です。",
+      "do": "国の記念日として、全国共通の休日になっています。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "2〜3月ごろ",
+      "name": "マハー・シヴァラートリ",
+      "en": "Maha Shivaratri",
+      "type": "option",
+      "where": "全国各地",
+      "mean": "シヴァ神にささげる夜の祭りです。",
+      "do": "断食をして夜通し祈り、シヴァのリンガに水、牛乳、蜂蜜、ビルヴァの葉を供えます。"
+    },
+    {
+      "group": "islam",
+      "when": "2027年は3月ごろ",
+      "name": "イード・アル・フィトル",
+      "en": "Eid al-Fitr",
+      "type": "gazetted",
+      "where": "全国のイスラム教徒",
+      "mean": "ラマダーン月の断食が終わったことを祝います。",
+      "do": "モスクで祈り、新しい服を着て、家族で食事をします。贈り物や特別な菓子、墓参りの習慣がある共同体もあります。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "2月末〜3月ごろ",
+      "name": "ホーリー",
+      "en": "Holi",
+      "type": "option",
+      "where": "全国各地、特に北インド",
+      "mean": "春の訪れを祝う「色の祭り」です。ヴィシュヌ神に守られた信者プラフラーダと魔女ホーリカーの物語や、クリシュナとラーダーの物語と結びついています。",
+      "do": "前夜にたき火をし、当日は色の粉を掛け合います。カースト、性別、年齢の区別を忘れて騒ぐ日とされ、揚げ菓子のグジヤも食べます。"
+    },
+    {
+      "group": "1〜3月ごろ",
+      "when": "3〜4月ごろ",
+      "name": "聖金曜日",
+      "en": "Good Friday",
+      "type": "gazetted",
+      "where": "全国のキリスト教徒",
+      "mean": "イエス・キリストの受難を記念するキリスト教の日です。",
+      "do": "教会で礼拝が行われます。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "3〜4月ごろ",
+      "name": "ウガーディ／グディ・パドワー",
+      "en": "Ugadi / Gudi Padwa",
+      "type": "option",
+      "where": "デカン地方などの各州",
+      "mean": "ヒンドゥー暦の新年の始まりとして祝われます。呼び名は地域によって異なります。",
+      "do": "新年を迎える行事が地域ごとに行われます。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "4月半ば",
+      "name": "バイサーキー",
+      "en": "Vaisakhi",
+      "type": "option",
+      "where": "パンジャーブ地方など",
+      "mean": "シク教徒にとっては、信徒の共同体カールサーの創設を記念する日です。",
+      "do": "グルドワーラー（シク教寺院）に人々が集まります。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "4月半ば",
+      "name": "ボハーグ・ビフ",
+      "en": "Bohag Bihu",
+      "type": "option",
+      "where": "アッサム州",
+      "mean": "アッサムの新年を告げる春の祭りです。",
+      "do": "音楽とビフ踊り、ごちそう、伝統の遊びで祝い、「メジ」と呼ばれるたき火をします。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "3〜4月ごろ",
+      "name": "ラーマ・ナヴァミー",
+      "en": "Ram Navami",
+      "type": "option",
+      "where": "全国各地",
+      "mean": "叙事詩『ラーマーヤナ』の主人公、ラーマの誕生を祝う日です。",
+      "do": "ラーマを祀る寺院などで祝われます。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "3〜4月ごろ",
+      "name": "マハーヴィーラ生誕祭",
+      "en": "Mahavir Jayanti",
+      "type": "gazetted",
+      "where": "全国のジャイナ教徒",
+      "mean": "ジャイナ教を広めたマハーヴィーラの誕生を祝う日です。",
+      "do": "ジャイナ教の共同体で祝われます。"
+    },
+    {
+      "group": "islam",
+      "when": "2027年は5月ごろ",
+      "name": "イード・アル・アドハー",
+      "en": "Eid al-Adha / Bakrid",
+      "type": "gazetted",
+      "where": "全国のイスラム教徒",
+      "mean": "犠牲祭です。神の命に従って息子を捧げようとしたイブラーヒームの故事を記念します。",
+      "do": "共同で祈り、余裕のある家庭は動物を犠牲にして、肉を貧しい人、親類、友人、家族で分けます。"
+    },
+    {
+      "group": "4〜6月ごろ",
+      "when": "4〜5月ごろ",
+      "name": "ブッダ・プールニマー",
+      "en": "Buddha Purnima",
+      "type": "gazetted",
+      "where": "全国の仏教徒",
+      "mean": "ブッダの誕生、悟り、死を記念する満月の日です。",
+      "do": "僧へ施しをします。"
+    },
+    {
+      "group": "islam",
+      "when": "2027年は6月ごろ",
+      "name": "ムハッラム",
+      "en": "Muharram",
+      "type": "gazetted",
+      "where": "全国のイスラム教徒、特にシーア派",
+      "mean": "預言者ムハンマドの孫フサインの殉教を悼む日です。お祝いの日ではありません。",
+      "do": "シーア派を中心に追悼の行事が行われます。「おめでとう」とあいさつする日ではない点に注意しましょう。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "6〜7月ごろ",
+      "name": "ラタ・ヤートラー",
+      "en": "Rath Yatra",
+      "type": "option",
+      "where": "オディシャ州プリーなど",
+      "mean": "プリーのジャガンナート寺院の神々が山車で巡行する祭りです。",
+      "do": "神像を3台の大きな木製の山車に乗せ、信者が綱を引いてグンディチャ寺院まで運びます。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "8月15日（固定）",
+      "name": "独立記念日",
+      "en": "Independence Day",
+      "type": "national",
+      "where": "全国",
+      "mean": "1947年8月15日の英国からの独立を記念する日です。",
+      "do": "首相がデリーのラール・キラー（赤い城）で演説します。"
+    },
+    {
+      "group": "islam",
+      "when": "2027年は8月ごろ",
+      "name": "ミーラード・ウン・ナビー",
+      "en": "Milad-un-Nabi",
+      "type": "gazetted",
+      "where": "全国のイスラム教徒",
+      "mean": "預言者ムハンマドの誕生日です。",
+      "do": "行列を行う地域があります。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "8月ごろ",
+      "name": "ラクシャー・バンダン",
+      "en": "Raksha Bandhan",
+      "type": "option",
+      "where": "全国各地、特に北インド",
+      "mean": "きょうだいの絆を祝う日です。",
+      "do": "姉妹が兄弟の右手首に「ラーキー」という飾り紐を結び、菓子を交換します。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "8〜9月ごろ",
+      "name": "ジャンマーシュタミー",
+      "en": "Janmashtami",
+      "type": "option",
+      "where": "全国各地",
+      "mean": "クリシュナ神の誕生を祝う日です。",
+      "do": "誕生の時刻とされる真夜中まで断食して起きて過ごし、幼いクリシュナの像を水と牛乳で清めて新しい服を着せ、礼拝します。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "8〜9月ごろ",
+      "name": "ガネーシャ・チャトゥルティー",
+      "en": "Ganesh Chaturthi",
+      "type": "option",
+      "where": "マハーラーシュトラ州、南インドなど",
+      "mean": "象の頭を持つ知恵と繁栄の神、ガネーシャの誕生を祝います。",
+      "do": "ガネーシャの像を祀り、祭りの終わりに川や海に流して送ります。"
+    },
+    {
+      "group": "7〜9月ごろ",
+      "when": "8〜9月ごろ",
+      "name": "オーナム",
+      "en": "Onam",
+      "type": "option",
+      "where": "ケーララ州（現ケーララム）",
+      "mean": "10日間続くケーララの収穫祭で、伝説の善王マハーバリを迎えます。",
+      "do": "庭に花の絨毯プーカラムを作り、バナナの葉に並べた菜食のごちそうオーナサディヤを囲みます。長い蛇船の競漕も名物です。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "10月2日（固定）",
+      "name": "ガンディー生誕記念日",
+      "en": "Gandhi Jayanti",
+      "type": "national",
+      "where": "全国",
+      "mean": "マハトマ・ガンディーの誕生日です。",
+      "do": "国の記念日として、全国共通の休日になっています。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "9〜10月ごろ",
+      "name": "ドゥルガー・プージャー",
+      "en": "Durga Puja",
+      "type": "option",
+      "where": "西ベンガル州、アッサム州など",
+      "mean": "女神ドゥルガーが水牛の魔神マヒシャースラに勝利したことを祝う祭りです。",
+      "do": "女神の像を祀り、最終日に行列で川や池へ運んで流します。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "9〜10月ごろ",
+      "name": "アーユダ・プージャー",
+      "en": "Ayudha Puja",
+      "type": "option",
+      "where": "南インド（タミル・ナードゥ州、カルナータカ州など）",
+      "mean": "ナヴァラートリの9日目に、仕事や学びの道具に感謝する日です。「アーユダ」は武器や道具を指します。",
+      "do": "ペン、楽器、機械、工具、パソコンなどを清めて飾り、礼拝します。職場や車でも行われることがあります。日付は州によって1日前後します。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "9〜10月ごろ",
+      "name": "ダシャラー（ヴィジャヤダシャミー）",
+      "en": "Dussehra",
+      "type": "gazetted",
+      "where": "全国各地",
+      "mean": "9夜続くナヴァラートリの次の10日目です。北インドではラーマの魔王ラーヴァナへの勝利、南インドでは女神の魔神への勝利を祝います。",
+      "do": "悪に対する善の勝利を祝う行事が地域ごとに行われます。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "10〜11月ごろ",
+      "name": "カルワー・チョウト",
+      "en": "Karva Chauth",
+      "type": "option",
+      "where": "北インドなど",
+      "mean": "既婚のヒンドゥー教徒の女性が、夫の長寿と繁栄を願う日です。",
+      "do": "日の出から月の出まで、水も口にせず断食します。月に供え物をした後、夫の手で食べ物を口にして断食を終えます。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "10月下旬〜11月上旬ごろ",
+      "name": "ディワリ",
+      "en": "Diwali / Deepavali",
+      "type": "gazetted",
+      "where": "全国のヒンドゥー教徒、ジャイナ教徒、シク教徒など",
+      "mean": "5日間続く「光の祭り」です。繁栄の女神ラクシュミーを迎えるほか、北インドではラーマのアヨーディヤー帰還、南インドではクリシュナの魔神ナラカースラ退治と結びつけられます。",
+      "do": "家々に素焼きの灯明を並べ、床に色鮮やかな模様ランゴーリーを描きます。新しい服、親戚の訪問、贈り物、ごちそうのほか、花火や爆竹が付きものです。ただし大気汚染のため規制する地域が増え、デリー首都圏では最高裁の命令で、2026年のディワリには認証を受けた「グリーン花火」だけが2日間に限って認められました。州によっては前日のナラカ・チャトゥルダシーが休日になります。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "10月下旬〜11月上旬ごろ",
+      "name": "バーイー・ドゥージ",
+      "en": "Bhai Dooj",
+      "type": "option",
+      "where": "北インドなど",
+      "mean": "ディワリの5日目で、姉妹が兄弟の成功と無事を祈る日です。",
+      "do": "ラクシャー・バンダンに似た、きょうだいのための行事が行われます。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "10月下旬〜11月ごろ",
+      "name": "チャト・プージャー",
+      "en": "Chhath Puja",
+      "type": "option",
+      "where": "ビハール州、ウッタル・プラデーシュ州、ジャールカンド州など",
+      "mean": "太陽神スーリヤにささげる4日間の祭りです。沈む太陽も拝むのが特徴です。",
+      "do": "水も口にしない36時間の断食を行い、川や池に腰までつかって、夕日と朝日に供え物をささげます。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "11月ごろ",
+      "name": "グル・ナーナク生誕祭",
+      "en": "Guru Nanak Jayanti",
+      "type": "gazetted",
+      "where": "全国のシク教徒",
+      "mean": "シク教の開祖、グル・ナーナクの誕生を祝う日です。",
+      "do": "前日に聖典を輿に載せたナガル・キールタンという行列を行い、グルドワーラーでは無料の共同食事ランガルがふるまわれます。"
+    },
+    {
+      "group": "10〜12月ごろ",
+      "when": "12月25日（固定）",
+      "name": "クリスマス",
+      "en": "Christmas",
+      "type": "gazetted",
+      "where": "全国のキリスト教徒",
+      "mean": "イエス・キリストの誕生を祝う日です。",
+      "do": "教会で礼拝が行われます。"
+    }
+  ],
+  "sources": [
+    {
+      "t": "DoPT, Holidays to be observed in Central Government Offices during the year 2027（F.No. 12/2/2023-JCA, 2026年7月16日、転載）",
+      "u": "https://igecorner.com/central-government-offices-holiday-list-2027-dopt-om-circular/"
+    },
+    {
+      "t": "同 Annexure I（官公庁の休日、転載）",
+      "u": "https://igecorner.com/holiday-list-2027-central-government-employees/"
+    },
+    {
+      "t": "同 Annexure II（選択休日、転載）",
+      "u": "https://igecorner.com/restricted-holiday-list-2027-central-government-employees/"
+    },
+    {
+      "t": "Reserve Bank of India, Holidays",
+      "u": "https://www.rbi.org.in/Scripts/HolidayMatrixDisplay.aspx"
+    },
+    {
+      "t": "Government of Tamil Nadu, Public Holidays for 2026（転載）",
+      "u": "https://uncomplycate.com/wp-content/uploads/2025/11/Government-of-Tamil-Nadu-Declares-Public-Holidays-for-2026-NOV122025.pdf"
+    },
+    {
+      "t": "Government of Kerala, Public Holidays 2026",
+      "u": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf"
+    },
+    {
+      "t": "HR Engage, Assam Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/assam/2026"
+    },
+    {
+      "t": "HR Engage, West Bengal Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/west-bengal/2026"
+    },
+    {
+      "t": "HR Engage, Maharashtra Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/maharashtra/2026"
+    },
+    {
+      "t": "HR Engage, Punjab Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/punjab/2026"
+    },
+    {
+      "t": "HR Engage, Gujarat Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/gujarat/2026"
+    },
+    {
+      "t": "HR Engage, Bihar Public Holidays 2026",
+      "u": "https://hrengage.ai/holiday-list/bihar/2026"
+    },
+    {
+      "t": "Govt Calendar, Odisha Govt Calendar 2026",
+      "u": "https://govtcalendar.org/odisha-govt-calendar/"
+    },
+    {
+      "t": "Britannica, Diwali",
+      "u": "https://www.britannica.com/topic/Diwali-Hindu-festival"
+    },
+    {
+      "t": "ThePrint, SC allows bursting of green firecrackers in Delhi-NCR on Nov 7-8（2026年）",
+      "u": "https://theprint.in/india/sc-allows-bursting-of-green-firecrackers-in-delhi-ncr-from-6-7-am-8-10-pm-on-nov-7-8/3088152/"
+    },
+    {
+      "t": "Britannica, Holi - Students",
+      "u": "https://kids.britannica.com/students/article/Holi/636476"
+    },
+    {
+      "t": "Britannica, Navratri",
+      "u": "https://www.britannica.com/topic/Navratri"
+    },
+    {
+      "t": "Britannica, Dussehra",
+      "u": "https://www.britannica.com/topic/Dussehra"
+    },
+    {
+      "t": "Tamil Nadu Tourism, Saraswathi Pooja",
+      "u": "https://www.tamilnadutourism.tn.gov.in/events/saraswathi-pooja"
+    },
+    {
+      "t": "Britannica, Pongal",
+      "u": "https://www.britannica.com/topic/Pongal"
+    },
+    {
+      "t": "Britannica, Bihu",
+      "u": "https://www.britannica.com/topic/Bihu"
+    },
+    {
+      "t": "Britannica, Makar Sankranti - Kids",
+      "u": "https://kids.britannica.com/kids/article/Makar-Sankranti/648508"
+    },
+    {
+      "t": "Britannica, Śivarātrī",
+      "u": "https://www.britannica.com/topic/Sivaratri"
+    },
+    {
+      "t": "Britannica, Janmashtami",
+      "u": "https://www.britannica.com/topic/Janmashtami"
+    },
+    {
+      "t": "Britannica, Raksha Bandhan",
+      "u": "https://www.britannica.com/topic/Raksha-Bandhan"
+    },
+    {
+      "t": "Britannica, Karva Chauth",
+      "u": "https://www.britannica.com/topic/Karva-Chauth"
+    },
+    {
+      "t": "Britannica, Vesak",
+      "u": "https://www.britannica.com/topic/Vesak"
+    },
+    {
+      "t": "Britannica, Eid al-Adha",
+      "u": "https://www.britannica.com/topic/Eid-al-Adha"
+    },
+    {
+      "t": "Britannica, Ramadan",
+      "u": "https://www.britannica.com/topic/Ramadan"
+    },
+    {
+      "t": "Britannica, Chhath Puja",
+      "u": "https://www.britannica.com/topic/Chhath-Puja"
+    },
+    {
+      "t": "Bihar Tourism, Chhath Puja",
+      "u": "https://tourism.bihar.gov.in/en/experiences/festivals-and-fairs/festivals/chhath-puja"
+    },
+    {
+      "t": "Kerala Tourism, Onam",
+      "u": "https://www.keralatourism.org/onam"
+    },
+    {
+      "t": "Incredible India, Rath Yatra",
+      "u": "https://www.incredibleindia.gov.in/en/festivals-and-events/odisha/rath-yatra"
+    },
+    {
+      "t": "Incredible India, Guru Nanak Jayanti",
+      "u": "https://www.incredibleindia.gov.in/en/festivals-and-events/guru-nanak-jayant"
+    }
+  ],
+  "states": [
+    [
+      "タミル・ナードゥ州",
+      "ポンガルが州の祝日です。"
+    ],
+    [
+      "アッサム州",
+      "春のボハーグ・ビフが州の祝日です。"
+    ],
+    [
+      "オディシャ州",
+      "プリーで知られるラタ・ヤートラーが祝日です。"
+    ],
+    [
+      "西ベンガル州",
+      "ドゥルガー・プージャーの数日間が州の祝日です。"
+    ],
+    [
+      "マハーラーシュトラ州",
+      "ガネーシャ・チャトゥルティーと、新年のグディ・パドワーが祝日です。"
+    ],
+    [
+      "パンジャーブ州",
+      "バイサーキーが州の祝日です。"
+    ],
+    [
+      "グジャラート州",
+      "凧揚げで知られるウッタラーヤン（マカル・サンクラーンティ）が祝日です。"
+    ],
+    [
+      "ビハール州、ジャールカンド州",
+      "ビハール州ではチャト・プージャーが州の祝日で、この時期にパトナやラーンチーの銀行も休みになります。ムンバイの銀行は休みになりません。"
+    ],
+    [
+      "カルナータカ州、テランガーナ州",
+      "ガネーシャ・チャトゥルティーに銀行が休みになります（ベンガルール、ハイデラバード）。"
+    ],
+    [
+      "ケーララ州（現ケーララム）",
+      "2026年の州の祝日は22日です。特定の共同体の職員だけが休める日もあります。"
+    ]
+  ]
+}

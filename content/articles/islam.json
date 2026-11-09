@@ -1,0 +1,47 @@
+{
+  "slug": "islam",
+  "draft": false,
+  "minutes": 6,
+  "checked": "2026-11-09",
+  "points": [
+    "2011年の国勢調査で、インドのイスラム教徒は約1億7,200万人、人口の14.2%である。",
+    "2006年のサッチャル委員会報告は、イスラム教徒の社会経済的な立ち遅れを指摘した。",
+    "アヨーディヤーや市民権法をめぐって、宗教間の緊張は政治の焦点になってきた。"
+  ],
+  "body": [
+    { "p": "インドのイスラム教徒は、割合では少数派ですが、一つの国の中の人口としては世界でも有数の規模です。世界のイスラム教徒の約11%がインドに住んでいるとされます。「外から来た人々」ではなく、何世紀にもわたってインド社会の一部であり続けてきた人々です。" },
+    { "h": "多様な人々" },
+    { "p": "ピュー研究所の2019〜20年の調査では、インドのイスラム教徒の55%がスンニ派、6%がシーア派と答えています。地域による違いも大きく、話す言葉も北部のウルドゥー語、東部のベンガル語、南部のマラヤーラム語などさまざまです。" },
+    { "p": "1947年の分離独立で多くの人がパキスタンに移りましたが、多くのイスラム教徒はインドにとどまりました。" },
+    { "h": "社会経済的な状況" },
+    { "p": "政府が設けたサッチャル委員会は、2006年の報告書で、イスラム教徒の教育や雇用の面での立ち遅れを指摘しました。政府は76の勧告のうち72を受け入れたと説明しています。" },
+    { "h": "緊張の焦点" },
+    { "figure": "islam-timeline", "caption": "宗教間の緊張に関わる主な出来事" },
+    { "p": "北インドのアヨーディヤーでは、ラーマ神の生誕地とされる場所に建っていたバーブリー・モスクが、1992年にヒンドゥー至上主義者の群衆によって破壊されました。最高裁は2019年11月、その土地をヒンドゥー寺院の建設のために割り当て、モスクには代替地を与えると判断する一方、モスクの破壊は法の支配に反すると述べました。寺院は2024年1月に開かれています。" },
+    { "p": "2019年の市民権改正法は、隣国から来たヒンドゥー教徒などの非イスラム教徒に市民権取得の道を開くものです。イスラム教徒を対象外としたことに抗議が広がり、死者も出ました。運用のための規則は、2024年3月11日に告示されています。" },
+    { "views": [
+      { "who": "政府や支持する側の説明", "text": "市民権法は隣国で迫害された少数派を救うためのもので、インド国内のイスラム教徒の権利を奪うものではないと説明しています。" },
+      { "who": "批判する側の主張", "text": "宗教によって扱いを分けることは、憲法の世俗主義と平等の原則に反すると主張しています。" }
+    ] },
+    { "p": "ピュー研究所の調査では、イスラム教徒の5人に1人が最近、宗教による差別を受けたと答えました。「イスラム教徒への差別が広くある」と考える人の割合は、地域によって1割から3割台まで異なります。" },
+    { "note": "知っておきたいこと: ヒンドゥー教徒とイスラム教徒は、長い歴史の中で同じ社会に暮らしてきました。対立の側面だけを見ると、社会の姿を見誤ります。" }
+  ],
+  "quiz": [
+    { "q": "2011年の国勢調査で、インドの人口に占めるイスラム教徒の割合はどれですか？", "choices": ["2.3%", "14.2%", "30.5%", "79.8%"], "answer": 1, "why": "14.2%で、約1億7,200万人にあたります。" },
+    { "q": "イスラム教徒の社会経済的な状況を調べ、2006年に報告書を出した委員会はどれですか？", "choices": ["サッチャル委員会", "州再編委員会", "選挙管理委員会", "計画委員会"], "answer": 0, "why": "サッチャル委員会が報告書をまとめました。" },
+    { "q": "バーブリー・モスクが破壊された年はどれですか？", "choices": ["1947年", "1975年", "2019年", "1992年"], "answer": 3, "why": "1992年にアヨーディヤーで破壊されました。" },
+    { "q": "2019年の最高裁判決で、アヨーディヤーの争点の土地はどう扱われましたか？", "choices": ["モスクの再建に割り当てられた", "公園として保存された", "ヒンドゥー寺院の建設に割り当てられた", "国有地のまま利用が禁止された"], "answer": 2, "why": "寺院の建設に割り当てられ、モスクには代替地が与えられることになりました。" },
+    { "q": "2019年の市民権改正法で、市民権取得の道の対象外とされた宗教はどれですか？", "choices": ["シク教", "イスラム教", "仏教", "キリスト教"], "answer": 1, "why": "対象は隣国から来たヒンドゥー教徒などの非イスラム教徒です。" }
+  ],
+  "sources": [
+    { "t": "Press Information Bureau, RGI releases Census 2011 data on Population by Religious Communities", "u": "https://www.pib.gov.in/newsite/printrelease.aspx?relid=126326&reg=48&lang=2" },
+    { "t": "JURIST, India notifies rules to implement citizenship amendments（2024年3月）", "u": "https://www.jurist.org/news/2024/03/india-notifies-rules-to-implement-controversial-legislation-amending-citizenship-laws" },
+    { "t": "Pew Research Center, Religion in India: Tolerance and Segregation", "u": "https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/" },
+    { "t": "Pew Research Center, Religious freedom, discrimination and communal relations in India", "u": "https://www.pewresearch.org/religion/2021/06/29/religious-freedom-discrimination-and-communal-relations/" },
+    { "t": "Press Information Bureau, Implementation of Recommendations of Sachar Committee", "u": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=104086&reg=48&lang=2" },
+    { "t": "Supreme Court of India, Judgment of 9 November 2019（Ayodhya）", "u": "https://api.sci.gov.in/supremecourt/2010/36350/36350_2010_1_1502_18205_Judgement_09-Nov-2019.pdf" },
+    { "t": "Britannica, What was the Supreme Court's 2019 verdict on the Ram Janmabhoomi–Babri Masjid site?", "u": "https://www.britannica.com/question/What-was-the-Supreme-Courts-2019-verdict-on-the-Ram-Janmabhoomi-Babri-Masjid-site" },
+    { "t": "Britannica, What is the Citizenship (Amendment) Act, 2019?", "u": "https://www.britannica.com/question/What-is-the-Citizenship-Amendment-Act-2019" },
+    { "t": "Press Information Bureau, PM's message on Citizenship Amendment Act 2019", "u": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=195899&reg=48&lang=2" }
+  ]
+}

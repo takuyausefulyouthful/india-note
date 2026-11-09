@@ -1,0 +1,44 @@
+{
+  "slug": "etiquette",
+  "draft": false,
+  "minutes": 4,
+  "checked": "2026-11-09",
+  "points": [
+    "ビジネスのあいさつは握手が基本だが、相手に合わせてナマステで応じることもできる。",
+    "目上の人を先に立てることや、雑談を通じた信頼関係が重視される。",
+    "地域や個人による差が大きいため、相手の振る舞いをよく見て合わせる。"
+  ],
+  "body": [
+    { "p": "インドで大切にされる作法を少し知っておくだけで、最初の印象はずいぶん変わります。ただし、ここで紹介するのは一般的な傾向です。広大で多様な国なので、北と南でも大きく違います。迷ったら相手に合わせましょう。" },
+    { "figure": "etiquette", "caption": "最初の場面で意識したいポイント" },
+    { "h": "あいさつと名刺" },
+    { "p": "ビジネスでは握手が一般的ですが、両手を合わせて軽く頭を下げるナマステであいさつする人もいます。相手に合わせるのが基本です。男女で握手をすることもありますが、宗教上の理由などで異性に触れたくない人もいます。女性と握手をするときは、相手が手を差し出すのを待つと安心です。握手は右手でします。" },
+    { "p": "会議では上位の人から先にあいさつをします。肩書や敬称も大切にされます。名刺は右手か両手で受け取り、すぐにしまわず目を通してから机の上に置きましょう。後ろのポケットに入れるのは失礼と受け取られることがあります。" },
+    { "h": "右手と左手" },
+    { "p": "伝統的に左手は不浄とされることが多く、食事や物の受け渡しには右手を使うのが無難です。手で食べる食事の場面では、周りの人の動きを見てまねしましょう。" },
+    { "h": "首の振り方とやり取り" },
+    { "p": "インドでは、頭を左右に小さく傾けたり振ったりする仕草が、「はい」「分かった」といった同意や理解を表すことがあります。首を縦に振っても、礼儀として聞いているだけの場合があるので、大事な場面では言葉でも確認しましょう。" },
+    { "p": "はっきり「ノー」と言わず、遠回しに伝えることもよくあります。家族の話などの雑談は信頼関係を築く大切な時間です。" },
+    { "h": "寺院や家庭で" },
+    { "p": "寺院や、多くの家庭では、入るときに靴を脱ぎます。足の裏を人や神像に向けるのも失礼と受け取られることがあります。写真撮影の可否はその場所で確認しましょう。" },
+    { "h": "避けたほうがよい話題" },
+    { "p": "相手のカーストを直接尋ねることや、カシミールを含むパキスタンとの緊張関係に自分から踏み込むことは避けましょう。インドをパキスタンやバングラデシュと安易に比べるのも、気分を害することがあります。相手が話題にした場合も、聞く姿勢が無難です。" },
+    { "note": "意外な注意点: 人差し指で人を指すと、相手を責めているように受け取られることがあります。方向や人を示すときは、手のひらを下に向けて手全体で示すと無難です。" }
+  ],
+  "quiz": [
+    { "q": "両手を合わせて軽く頭を下げるあいさつを何と呼びますか？", "choices": ["プージャー", "ナマステ", "ヨーガ", "ラーク"], "answer": 1, "why": "ナマステは、手のひらを合わせて軽く頭を下げるあいさつです。" },
+    { "q": "インドの会議で、あいさつを先にする相手はどの人ですか？", "choices": ["最も上位の人", "最も若い人", "入口に近い人", "同じ年齢の人"], "answer": 0, "why": "上位の人から先にあいさつをするのが基本です。" },
+    { "q": "受け取った名刺の扱いとして適切なものはどれですか？", "choices": ["すぐ後ろのポケットに入れる", "相手の前で書き込む", "折って財布に入れる", "目を通して机の上に置く"], "answer": 3, "why": "すぐにしまわず、目を通してから机の上に置きます。" },
+    { "q": "物の受け渡しに使うと無難な手はどちらですか？", "choices": ["左手", "どちらでも同じ", "右手", "足で渡す"], "answer": 2, "why": "伝統的に左手は不浄とされることが多いため、右手が無難です。" },
+    { "q": "頭を左右に小さく傾ける仕草が表すことがある意味はどれですか？", "choices": ["強い拒否", "同意や相づち", "怒り", "別れのあいさつ"], "answer": 1, "why": "「はい」「分かった」といった同意や相づちを表すことがあります。" }
+  ],
+  "sources": [
+    { "t": "Cultural Atlas, Indian Culture: Greetings", "u": "https://theculturalatlas.org/indian-culture/indian-culture-greetings" },
+    { "t": "Cultural Atlas, Indian Culture: Business Culture", "u": "https://theculturalatlas.org/indian-culture/indian-culture-business-culture" },
+    { "t": "Cultural Atlas, Indian Culture: Communication", "u": "https://theculturalatlas.org/indian-culture/indian-culture-communication" },
+    { "t": "Cultural Atlas, Indian Culture: Etiquette", "u": "https://theculturalatlas.org/indian-culture/indian-culture-etiquette" },
+    { "t": "Cultural Atlas, Indian Culture: Do's and Don'ts", "u": "https://theculturalatlas.org/indian-culture/indian-culture-do-s-and-don-ts" },
+    { "t": "Rough Guides, Customs and etiquette in India", "u": "https://www.roughguides.com/india/customs-etiquette/" },
+    { "t": "West Yorkshire Combined Authority, Understanding business culture in India", "u": "https://www.westyorks-ca.gov.uk/resources/understanding-business-culture-in-india/" }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "site": {
+    "name": "インド教養ノート",
+    "operator": "Takuya",
+    "reportUrl": "",
+    "noindex": true
+  },
+  "categories": [
+    {
+      "id": "history",
+      "name": "歴史・政治・地理"
+    },
+    {
+      "id": "culture",
+      "name": "宗教・文化・祝祭"
+    },
+    {
+      "id": "business",
+      "name": "ビジネス・経済・マナー"
+    }
+  ],
+  "articles": [
+    {
+      "n": 1,
+      "slug": "overview",
+      "cat": "history",
+      "course": true,
+      "title": "インドの全体像をつかむ",
+      "desc": "人口、国土、州の構成、日本との規模の違い"
+    },
+    {
+      "n": 2,
+      "slug": "ancient",
+      "cat": "history",
+      "title": "インダス文明から古代帝国へ",
+      "desc": "インダス文明、マウリヤ朝、グプタ朝"
+    },
+    {
+      "n": 3,
+      "slug": "mughal",
+      "cat": "history",
+      "title": "ムガル帝国とイスラム王朝の時代",
+      "desc": "デリー・スルターン朝、アクバル、タージ・マハル"
+    },
+    {
+      "n": 4,
+      "slug": "british-raj",
+      "cat": "history",
+      "course": true,
+      "title": "英領インドと独立運動",
+      "desc": "東インド会社、1857年の大反乱、ガンディー、ネルー"
+    },
+    {
+      "n": 5,
+      "slug": "partition",
+      "cat": "history",
+      "course": true,
+      "title": "1947年の分離独立とカシミール問題",
+      "desc": "印パ分離、難民と暴力、各国の立場"
+    },
+    {
+      "n": 6,
+      "slug": "democracy",
+      "cat": "history",
+      "course": true,
+      "title": "世界最大の民主主義の仕組み",
+      "desc": "憲法、連邦議会、首相と大統領、主要政党"
+    },
+    {
+      "n": 7,
+      "slug": "languages",
+      "cat": "history",
+      "title": "州と言語の多様性",
+      "desc": "公用語、指定言語、北と南の違い"
+    },
+    {
+      "n": 8,
+      "slug": "geography",
+      "cat": "history",
+      "title": "地理と主要都市",
+      "desc": "ヒマラヤ、ガンジス川、モンスーン、デリーやムンバイなど"
+    },
+    {
+      "n": 9,
+      "slug": "hinduism",
+      "cat": "culture",
+      "course": true,
+      "title": "ヒンドゥー教の基本",
+      "desc": "主要な神々、輪廻とカルマ、聖典、日常の信仰"
+    },
+    {
+      "n": 10,
+      "slug": "islam",
+      "cat": "culture",
+      "title": "インドのイスラム教徒",
+      "desc": "歴史、人口、社会的な立場、宗教間の緊張"
+    },
+    {
+      "n": 11,
+      "slug": "other-religions",
+      "cat": "culture",
+      "title": "シク教、ジャイナ教、仏教、キリスト教",
+      "desc": "各宗教の特徴と、インド社会での位置づけ"
+    },
+    {
+      "n": 12,
+      "slug": "caste",
+      "cat": "culture",
+      "course": true,
+      "title": "カーストを正しく理解する",
+      "desc": "ヴァルナとジャーティ、差別の歴史、留保制度と賛否"
+    },
+    {
+      "n": 13,
+      "slug": "festivals",
+      "cat": "culture",
+      "title": "祝祭と暦",
+      "desc": "ディワリ、ホーリー、イードなど"
+    },
+    {
+      "n": 14,
+      "slug": "food",
+      "cat": "culture",
+      "title": "食文化と菜食",
+      "desc": "地域差、宗教と食の禁忌、会食で気をつけること"
+    },
+    {
+      "n": 15,
+      "slug": "economy",
+      "cat": "business",
+      "course": true,
+      "title": "インド経済の現在地",
+      "desc": "1991年の経済自由化、成長、格差、雇用"
+    },
+    {
+      "n": 16,
+      "slug": "conglomerates",
+      "cat": "business",
+      "title": "財閥と代表的な企業",
+      "desc": "タタ、リライアンス、アダニ、ビルラ"
+    },
+    {
+      "n": 17,
+      "slug": "digital",
+      "cat": "business",
+      "title": "IT産業とデジタル基盤",
+      "desc": "IT大手、Aadhaar、UPI"
+    },
+    {
+      "n": 18,
+      "slug": "business-customs",
+      "cat": "business",
+      "course": true,
+      "title": "インドの商習慣と交渉",
+      "desc": "意思決定、値段交渉、時間感覚、合意の記録"
+    },
+    {
+      "n": 19,
+      "slug": "etiquette",
+      "cat": "business",
+      "title": "日常の作法とコミュニケーション",
+      "desc": "挨拶、右手と左手、首の振り方、話題の選び方"
+    },
+    {
+      "n": 20,
+      "slug": "japan-india",
+      "cat": "business",
+      "title": "日本とインドの関係",
+      "desc": "仏教伝来、パール判事、スズキ、現在の協力関係"
+    }
+  ]
+}

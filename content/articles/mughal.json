@@ -1,0 +1,45 @@
+{
+  "slug": "mughal",
+  "draft": false,
+  "minutes": 5,
+  "checked": "2026-11-09",
+  "points": [
+    "1526年にバーブルが創始したムガル帝国は、アクバルの時代に統治の基盤を固めた。",
+    "タージ・マハルを建てたシャー・ジャハーンの時代の後、アウラングゼーブのもとで領土は最大になった。",
+    "イスラム王朝の時代の評価は、現代インドの政治でも争点になっている。"
+  ],
+  "body": [
+    { "p": "13世紀以降の北インドでは、イスラム教徒の王朝が長く支配を続けました。この時代に生まれた建築、言葉、料理は、今もインドの文化の大きな部分を占めています。" },
+    { "figure": "mughal-timeline", "caption": "デリー・スルターン朝からムガル帝国の終わりまで" },
+    { "h": "デリー・スルターン朝からムガル帝国へ" },
+    { "p": "1206年ごろから、デリーを拠点とするイスラム王朝が続きました。これらをまとめてデリー・スルターン朝と呼びます。1526年、中央アジアから来たバーブルがパーニーパットの戦いでイブラーヒーム・ローディーを破り、ムガル帝国の基礎を築きました。" },
+    { "h": "アクバルの統治" },
+    { "p": "第3代のアクバルは、軍事遠征で領土を広げるとともに、長く続く行政の仕組みを整えました。ヒンドゥー教徒を高位の貴族に迎え、地域の有力者を通じて統治するなど、宗教に寛容な政策をとったことで知られます。" },
+    { "h": "タージ・マハルと帝国の頂点" },
+    { "p": "シャー・ジャハーンは、亡き妃ムムターズ・マハルの墓廟であるタージ・マハルやデリーのラール・キラー（赤い城）を建てました。華やかな建築の一方、度重なる軍事遠征で財政は厳しくなりました。" },
+    { "p": "アウラングゼーブの時代に帝国の領土は最大となりましたが、非イスラム教徒への人頭税（ジズヤ）の復活や重税が、シク教徒、ラージプート、マラーターの反乱を招いたとされます。" },
+    { "views": [
+      { "who": "宗教的な抑圧を強調する見方", "text": "寺院の破壊や人頭税の復活を重視し、アウラングゼーブを不寛容な君主と評価します。" },
+      { "who": "政治的な背景を重視する見方", "text": "当時の行動は宗教だけでなく、統治や軍事の事情からも説明すべきだと考えます。" }
+    ] },
+    { "h": "衰退と終わり" },
+    { "p": "1707年にアウラングゼーブが死去すると後継争いが続き、マラーターなどの地方勢力が台頭しました。1739年のナーディル・シャーのデリー侵攻で帝国はさらに弱まり、1803年にはデリーが英国の支配下に入ります。最後の皇帝バハードゥル・シャー2世は、1857年の大反乱の後に追放されました。" },
+    { "note": "現代とのつながり: インド首相は毎年8月15日の独立記念日に、ムガルの建てたラール・キラーで演説します。一方、ムガルの時代の位置づけや地名の変更は、現代の政治論争にもなっています。" }
+  ],
+  "quiz": [
+    { "q": "ムガル帝国の基礎を築いた人物は誰ですか？", "choices": ["アクバル", "シャー・ジャハーン", "バーブル", "アウラングゼーブ"], "answer": 2, "why": "バーブルが1526年にパーニーパットの戦いで勝利しました。" },
+    { "q": "パーニーパットの戦いでバーブルが勝利した年はどれですか？", "choices": ["1526年", "1206年", "1707年", "1857年"], "answer": 0, "why": "1526年です。1206年はデリー・スルターン朝の始まりの目安です。" },
+    { "q": "タージ・マハルを建てた皇帝は誰ですか？", "choices": ["アクバル", "アウラングゼーブ", "バハードゥル・シャー2世", "シャー・ジャハーン"], "answer": 3, "why": "シャー・ジャハーンが妃ムムターズ・マハルの墓廟として建てました。" },
+    { "q": "ヒンドゥー教徒を高位の貴族に迎えたことで知られる皇帝は誰ですか？", "choices": ["バーブル", "アクバル", "ナーディル・シャー", "イブラーヒーム・ローディー"], "answer": 1, "why": "アクバルは宗教に寛容な政策で知られます。" },
+    { "q": "アウラングゼーブが復活させた、非イスラム教徒への税を何と呼びますか？", "choices": ["地租", "塩税", "ジズヤ", "関税"], "answer": 2, "why": "人頭税のジズヤです。" }
+  ],
+  "sources": [
+    { "t": "Deccan Herald, View: Aurangzeb as bigot has colonial roots（政治的背景を重視する見方の紹介）", "u": "https://www.deccanherald.com/archives/view-aurangzeb-bigot-has-colonial-1993121" },
+    { "t": "Scroll.in, Aurangzeb was a bigot, not just by our standards but by those of his predecessors and peers（宗教的抑圧を強調する見方）", "u": "https://scroll.in/article/856178/aurangzeb-was-a-bigot-not-just-by-our-standards-but-by-those-of-his-predecessors-and-peers" },
+    { "t": "Press Information Bureau, Key highlights of the Prime Minister's address from the Red Fort（2026年8月15日）", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299890&reg=48&lang=2" },
+    { "t": "Britannica, India: The Mughal Empire, 1526–1761", "u": "https://www.britannica.com/place/India/The-Mughal-Empire-1526-1761" },
+    { "t": "Britannica, Mughal dynasty: Akbar", "u": "https://www.britannica.com/topic/Mughal-dynasty/Akbar" },
+    { "t": "Britannica, Mughal Dynasty Timeline", "u": "https://www.britannica.com/summary/Mughal-Dynasty-Timeline" },
+    { "t": "Britannica, 6 Important Mughal Emperors", "u": "https://www.britannica.com/story/6-important-mughal-emperors" }
+  ]
+}

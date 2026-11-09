@@ -1,0 +1,48 @@
+{
+  "slug": "digital",
+  "draft": false,
+  "minutes": 5,
+  "checked": "2026-11-09",
+  "points": [
+    "インドのIT産業はベンガルールやハイデラバードなどを拠点に発展した。",
+    "生体認証の身分証Aadhaarと即時決済UPIが、デジタル社会の基盤になっている。",
+    "UPIの取引は2025年度に2,416億回を超えた一方、個人情報の保護が課題として議論されてきた。"
+  ],
+  "body": [
+    { "p": "インドの街角では、小さな屋台でもスマートフォンでQRコードを読み取って支払う光景が日常になっています。IT産業の強みに加えて、政府主導のデジタル基盤が、社会の姿を変えてきました。" },
+    { "h": "IT産業の成り立ち" },
+    { "p": "ベンガルールはインドのハイテク産業の中心で、インフォシスなどの大手IT企業が本社を置いています。ハイデラバード、チェンナイ、ムンバイ、デリー首都圏、プネーも主要な拠点です。英語を使える技術者の層の厚さが、海外の顧客向けのサービスを支えてきました。" },
+    { "h": "デジタル基盤の三層" },
+    { "figure": "digital-stack", "caption": "インドのデジタル基盤の構造（簡略化した模式図）" },
+    { "p": "Aadhaar（アーダール）は、指紋や虹彩などの生体情報に結びつく12桁の個人識別番号です。2026年3月時点で14億4千万件を超える番号が発行されており、政府の資料では現在有効な保有者は約13億4千万人とされています。" },
+    { "p": "UPIは、銀行口座の間で即時に送金できる決済の仕組みです。2025年度の取引は約2,416億回に達し、2016年度の約2千万回から急増しました。2026年7月には1か月で236億6千万回の過去最高を記録し、約741の銀行が参加しています。個人間の送金と、加盟店の取引の96%は利用者の手数料が無料とされています。" },
+    { "h": "プライバシーの議論" },
+    { "p": "インド最高裁は2018年9月26日、Aadhaarを合憲と判断しつつ、民間企業の利用などを定めた規定の一部を無効としました。" },
+    { "views": [
+      { "who": "利点を重視する見方", "text": "給付金の不正の削減や、銀行口座を持たなかった人々の金融サービスへの参加を評価します。" },
+      { "who": "懸念を重視する見方", "text": "個人情報の集中と監視のリスクや、認証の失敗で弱い立場の人が給付を受けられなくなることを問題にします。" }
+    ] },
+    { "note": "単位に注意: インドの数字では、10万を表す「ラーク（lakh）」、1,000万を表す「クロー（crore）」がよく使われます。24,162クローは2,416億2千万です。読み違えると桁が大きくずれます。" }
+  ],
+  "quiz": [
+    { "q": "インドのハイテク産業の中心とされる都市はどこですか？", "choices": ["コルカタ", "ベンガルール", "アグラ", "ジャイプール"], "answer": 1, "why": "ベンガルールはインフォシスなどが本社を置く中心地です。" },
+    { "q": "銀行口座の間で即時に送金できるインドの決済の仕組みはどれですか？", "choices": ["UPI", "SWIFT", "Aadhaar", "SEBI"], "answer": 0, "why": "UPIです。Aadhaarは個人識別番号の仕組みです。" },
+    { "q": "インド最高裁がAadhaarについて判決を出したのはいつですか？", "choices": ["2009年", "2014年", "2023年", "2018年"], "answer": 3, "why": "2018年9月26日に合憲と判断し、一部の規定を無効としました。" },
+    { "q": "「1クロー」はいくつを表しますか？", "choices": ["1万", "10万", "1,000万", "10億"], "answer": 2, "why": "1クローは1,000万です。10万は1ラークです。" },
+    { "q": "Aadhaarの番号は何桁ですか？", "choices": ["8桁", "12桁", "16桁", "20桁"], "answer": 1, "why": "12桁の個人識別番号です。" }
+  ],
+  "sources": [
+    { "t": "Supreme Court Observer, Constitutionality of Aadhaar Act: Judgment Summary", "u": "https://www.scobserver.in/reports/constitutionality-of-aadhaar-justice-k-s-puttaswamy-union-of-india-judgment-in-plain-english/" },
+    { "t": "Carnegie Endowment, India's Universal Basic Income: Bedeviled by the Details", "u": "https://carnegieendowment.org/research/2018/02/indias-universal-basic-income-bedeviled-by-the-details" },
+    { "t": "World Bank Blogs, Giving people control over their data can transform development", "u": "https://blogs.worldbank.org/en/voices/giving-people-control-over-their-data-can-transform-development" },
+    { "t": "Press Information Bureau, UPI completes 10 glorious years", "u": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2257087&reg=48&lang=2" },
+    { "t": "Press Information Bureau, UPI: Transforming India's Payment Landscape", "u": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150962&reg=3&lang=1" },
+    { "t": "Press Information Bureau, UPI Continues to Remain Free for Peer to Peer Transactions and 96% of Merchant Transactions", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310586&reg=48&lang=1" },
+    { "t": "Press Information Bureau, Aadhaar（2026年3月時点の発行数）", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2235812&lang=2&reg=3" },
+    { "t": "Press Information Bureau, approximately 134 crore live Aadhaar holders", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241778&reg=6&lang=1" },
+    { "t": "UIDAI, About Aadhaar", "u": "https://uidai.gov.in/en/about-aadhaar" },
+    { "t": "Supreme Court of India, Judgment of 26 September 2018（Aadhaar）", "u": "https://uidai.gov.in/images/news/Judgement_26-Sep-2018.pdf" },
+    { "t": "Press Information Bureau, Aadhaar and Other Laws (Amendment) Ordinance, 2019", "u": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1566745&reg=3&lang=2" },
+    { "t": "Britannica, Narayana Murthy", "u": "https://www.britannica.com/money/Narayana-Murthy" }
+  ]
+}
